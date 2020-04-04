@@ -1,0 +1,15 @@
+﻿  TitleScene.cpp
+c:\users\kga_5\desktop\팀포폴\충돌처리진짜마지막\windowapi\gamenode.h(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\kga_5\desktop\팀포폴\충돌처리진짜마지막\windowapi\nomalskull.h(53): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_5\desktop\팀포폴\충돌처리진짜마지막\windowapi\nomalskull.h(73): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_5\desktop\팀포폴\충돌처리진짜마지막\windowapi\chiefguard.h(62): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_5\desktop\팀포폴\충돌처리진짜마지막\windowapi\hunter.h(54): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_5\desktop\팀포폴\충돌처리진짜마지막\windowapi\titlescene.cpp(55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_5\desktop\팀포폴\충돌처리진짜마지막\windowapi\titlescene.cpp(54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_5\desktop\팀포폴\충돌처리진짜마지막\windowapi\titlescene.cpp(60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_5\desktop\팀포폴\충돌처리진짜마지막\windowapi\titlescene.cpp(59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_5\desktop\팀포폴\충돌처리진짜마지막\windowapi\titlescene.cpp(64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_5\desktop\팀포폴\충돌처리진짜마지막\windowapi\titlescene.cpp(63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_5\desktop\팀포폴\충돌처리진짜마지막\windowapi\titlescene.cpp(66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameFramework2D.vcxproj -> C:\Users\KGA_5\Desktop\팀포폴\충돌처리진짜마지막\WindowAPI\Debug\GameFramework2D.exe
